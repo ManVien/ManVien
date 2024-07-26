@@ -1,9 +1,3 @@
-- 👀 I’m interested in data analysis, ML/AI.
-- 🌱 I’m currently learning to code in R and Python.
-- 💞️ I’m looking to collaborate on projects and hackathons related to data science.
-- 📫 Please contact me via mandyvien97@gmail.com or www.linkedin.com/in/mandy-vien. 
-- 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I am a Virgo, so 
 # 👋 Hello World! I'm Mandy
 
 ## 🚀 Data Enthusiast | AI Explorer | Virgo Analyst
