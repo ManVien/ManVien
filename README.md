@@ -14,8 +14,8 @@ I'm all about turning data chaos into beautiful insights.
 
 ### 🛠️ Tools & Technologies
 ```python
-skills = ['Python', 'R', 'Data Analysis', 'Machine Learning', 'Tableau']
-learning = ['Deep Learning', 'Big Data', 'HTML']
+skills = ['Python', 'R', 'Data Analysis', 'Machine Learning', 'ArcGIS', 'Tableau']
+learning = ['GenAI', 'Deep Learning', 'Big Data']
 ```
 
 ### 📫 Reach Out and Connect
